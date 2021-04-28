@@ -11,7 +11,7 @@ of successful or failed campaigns, creating visuals with excel pivot tables and 
 
 
 ## Analysis: 
-First, it is important to analyze when are the best date to launch fundraisers, predict when are the best seasons people are willing to donate to kickstarter.
+First, it is important to analyze when are the best date to launch fundraisers, predict when are the best seasons people are willing to donate to theater in kickstarter.
 
 ### Outcomes Based on Launched Date
 
