@@ -11,7 +11,10 @@ of successful or failed campaigns, creating visuals with excel pivot tables and 
 
 ### Analysis and Challenges 
 
+
 ### Analysis: Outcomes Based on Launched Date
+
+
 
 ### Analysis: Outcomes Based on Goals
 
