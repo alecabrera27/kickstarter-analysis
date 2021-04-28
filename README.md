@@ -5,6 +5,16 @@ With the help of the [kickstarter.com](https://www.kickstarter.com/) community, 
 different campaigns, launch dates and funding goals, compare their outcomes to predict when could be the best dates to launch another theater fundraiser and have more probability 
 to reach the goal. 
 
-## Purpose
+### Purpose
 Using the kickstarter data we will analyze based on the category, specifically, theater, compare the different goals each fundraiser had, launch date, and calculate the percentage 
 of successful or failed campaigns, creating visuals with excel pivot tables and charts.  
+
+### Analysis and Challenges 
+
+### Analysis: Outcomes Based on Launched Date
+
+### Analysis: Outcomes Based on Goals
+
+### Challenges and Difficulties 
+
+### Results 
