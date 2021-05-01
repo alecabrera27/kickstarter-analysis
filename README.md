@@ -11,7 +11,16 @@ of successful or failed campaigns, creating visuals with excel pivot tables and 
 
 
 ## Analysis: 
-First, it is important to analyze when are the best date to launch fundraisers, predict when are the best seasons people are willing to donate to theater in kickstarter.
+First, it is important to analyze when are the best dates to launch fundraisers, predict when are the best seasons or months when people are more willing to donate to theater in kickstarter campaings.
+
+-we will start by creating a new column where we will only have the years of the campaigns, using
+```
+=YEAR()
+```
+to extract the year from the "*Date Created Conversion*" column.
+
+-Using this information, we will create a pivot table, with filtered categories “*Theater*” and “*Years*”
+-On our rows we’ll be able to see the “*successful*”, “*Failed*”, “*Canceled*” and “*Total*” campaigns by month
 
 ### Outcomes Based on Launched Date
 
