@@ -22,10 +22,26 @@ to extract the year from the "*Date Created Conversion*" column.
 -Using this information, we will create a pivot table, with filtered categories “*Theater*” and “*Years*”
 -On our rows we’ll be able to see the “*successful*”, “*Failed*”, “*Canceled*” and “*Total*” campaigns by month
 
+![Theater_Outcomes_vs_Launch_Table](https://user-images.githubusercontent.com/78781719/116791355-56471680-aa7f-11eb-939f-b2c53c6f916c.PNG)
+
+
 ### Outcomes Based on Launched Date
 
+Looking on past data, and creating a visual with pivot charts we can find opportunities to be successful on launching a theater kickstarter. 
+Based on the charts created by the results on the data,our recommendation is to start the kickstarter campaigns after the months of April and no later than August, since we can see the lowest participation of this season on the month of September. 
+It is highly suggested that no theater campaign should be done during the months between September through March, Fall and Winter seasons, as we can see very low funding participation during these months.
+
+
+![Theater_Outcomes_vs_Launch png](https://user-images.githubusercontent.com/78781719/116791676-a3c48300-aa81-11eb-8ad2-11cbb5582ca7.PNG)
+
+
 ### Outcomes Based on Goals
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/78781719/116791766-1afa1700-aa82-11eb-91ea-a5a96ff747c0.png)
+
 
 ### Challenges and Difficulties 
 
 ## Results 
+
+
